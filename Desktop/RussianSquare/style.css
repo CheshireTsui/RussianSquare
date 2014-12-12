@@ -1,0 +1,150 @@
+body
+{
+	margin-left: 20%;
+}
+p
+{
+  position:relative;
+  top:28px;
+  right:7px;
+  font-size:35px;
+  margin: 0px;
+}
+div.header
+{
+	height: 50px;
+	width: 560px;
+	text-align: center;
+	background-color: #E5C16C;
+}
+div.next
+{
+  float: left;
+  height:105px;
+  width:105px;
+}
+div.main
+{
+  height:560px;
+  width:560px;
+  background-color:#572D19
+}
+div.left
+{
+  height:555px;
+  width:350px;
+  float:left;
+}
+div.side
+{
+  height:560px;
+  width:35px;
+  float:left;
+  background-color:#696969;
+}
+div.right
+{
+  height:560px;
+  width:210px;
+  float:left;
+  background-color:#A9A9A9;
+}
+div.screen
+{
+  height:315px;
+  width:210px;
+  clear:both;
+  background-color:#000000;
+}
+div#header2
+{
+  height:70px;
+  width:210px;
+  clear:both;
+  background-image:url(down.jpg);
+}
+div#start
+{
+  height:70px;
+  width:105px;
+  float:left;
+  background-image:url(\start.jpg);
+}
+div#pause
+{
+  height:70px;
+  width:105px;
+  float:left;
+  background-image:url(\pause.jpg);
+}
+div#left
+{
+  height:105px;
+  width:70px;
+  float:left;
+  background-image:url(\left.jpg);
+}
+div#turn
+{
+  height:105px;
+  width:70px;
+  float:left;
+  background-image:url(\turn.jpg);
+}
+div#right
+{
+  height:105px;
+  width:70px;
+  float:left;
+  background-image:url(\right.jpg);
+}
+div#score
+{
+  font-size:35px;
+  height:70px;
+  width:210px;
+  clear:both;
+  background-image:url(\score.jpg);
+  text-align: right;
+}
+div#level
+{
+  height:70px;
+  width:210px;
+  clear:both;
+  background-image:url(\level.jpg);
+  text-align: right;
+}
+div#next
+{
+  height:175px;
+  width:210px;
+  clear:both;
+  background-image:url(\next.jpg);
+}
+div.block
+{
+  height:35px;
+  width:35px;
+  float:left;
+  background-image:url(blocka.jpg);
+}
+div.block2
+{
+  height:21px;
+  width:21px;
+  float:left;
+  background-image:url(blocka.jpg);
+}
+div.nextxx
+{
+  height: 105px;
+  width: 50px;
+  float: left;
+}
+div.nextx
+{
+  width: 210px;
+  height: 60px;
+  clear:both;
+}
